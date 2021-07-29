@@ -1,0 +1,13 @@
+C:\Users\hp\Desktop\HAZEL\Hazel\pruebas C#\Prueba clases\Prueba clases\bin\Debug\netcoreapp3.1\Prueba clases.exe
+C:\Users\hp\Desktop\HAZEL\Hazel\pruebas C#\Prueba clases\Prueba clases\bin\Debug\netcoreapp3.1\Prueba clases.deps.json
+C:\Users\hp\Desktop\HAZEL\Hazel\pruebas C#\Prueba clases\Prueba clases\bin\Debug\netcoreapp3.1\Prueba clases.runtimeconfig.json
+C:\Users\hp\Desktop\HAZEL\Hazel\pruebas C#\Prueba clases\Prueba clases\bin\Debug\netcoreapp3.1\Prueba clases.runtimeconfig.dev.json
+C:\Users\hp\Desktop\HAZEL\Hazel\pruebas C#\Prueba clases\Prueba clases\bin\Debug\netcoreapp3.1\Prueba clases.dll
+C:\Users\hp\Desktop\HAZEL\Hazel\pruebas C#\Prueba clases\Prueba clases\bin\Debug\netcoreapp3.1\Prueba clases.pdb
+C:\Users\hp\Desktop\HAZEL\Hazel\pruebas C#\Prueba clases\Prueba clases\obj\Debug\netcoreapp3.1\Prueba clases.csprojAssemblyReference.cache
+C:\Users\hp\Desktop\HAZEL\Hazel\pruebas C#\Prueba clases\Prueba clases\obj\Debug\netcoreapp3.1\Prueba clases.AssemblyInfoInputs.cache
+C:\Users\hp\Desktop\HAZEL\Hazel\pruebas C#\Prueba clases\Prueba clases\obj\Debug\netcoreapp3.1\Prueba clases.AssemblyInfo.cs
+C:\Users\hp\Desktop\HAZEL\Hazel\pruebas C#\Prueba clases\Prueba clases\obj\Debug\netcoreapp3.1\Prueba clases.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\HAZEL\Hazel\pruebas C#\Prueba clases\Prueba clases\obj\Debug\netcoreapp3.1\Prueba clases.dll
+C:\Users\hp\Desktop\HAZEL\Hazel\pruebas C#\Prueba clases\Prueba clases\obj\Debug\netcoreapp3.1\Prueba clases.pdb
+C:\Users\hp\Desktop\HAZEL\Hazel\pruebas C#\Prueba clases\Prueba clases\obj\Debug\netcoreapp3.1\Prueba clases.genruntimeconfig.cache
