@@ -4,7 +4,7 @@
 # REQUERIMIENTOS
 Recomiendo descargar e instalar:
 
-El SDK de dotnet 3.1 en adelante
+El SDK de .NET 3.1 en adelante
 
 Visual Studio 2019
 
